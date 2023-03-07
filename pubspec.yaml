@@ -1,7 +1,7 @@
 name: shimmer_effect
-description: A Flutter Package to add shimmer animation
+description: A Flutter Package to add shimmer effect
 version: 1.0.0
-homepage: https://github.com/evdk1212/shimmeranimation.git
+homepage: https://github.com/evdk1212/shimmer_effect.git
 
 environment:
   sdk: '>=2.19.3 <3.0.0'
