@@ -66,7 +66,7 @@ class _ShimmerEffectState extends State<ShimmerEffect>
                 _animation.value + 0.7
               ],
               begin: const Alignment(-1, -1),
-              end:const  Alignment(1, 1),
+              end: const Alignment(1, 1),
               tileMode: TileMode.clamp,
             ),
           ),
@@ -77,4 +77,3 @@ class _ShimmerEffectState extends State<ShimmerEffect>
     );
   }
 }
-
