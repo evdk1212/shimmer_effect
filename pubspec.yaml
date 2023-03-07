@@ -1,6 +1,6 @@
 name: shimmer_effect
 description: The Shimmer effect package provides a customizable widget that adds a shimmering effect to any Flutter widget.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/evdk1212/shimmer_effect.git
 
 environment:
